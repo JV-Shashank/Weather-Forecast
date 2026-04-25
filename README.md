@@ -1,1 +1,1 @@
-Weather Insight is a Python application designed to fetch and display live weather information for different locations. It uses weather APIs and Python libraries for accurate forecasting and easy-to-use interaction.
+Built with Python to demonstrate API integration, real-time data fetching, data processing, and application development skills.
